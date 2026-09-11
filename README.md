@@ -5,14 +5,21 @@
 ### Data Analytics • Business Intelligence • Machine Learning • Data Science
 
 <p>
-  <a href="https://github.com/siddhikalolage"><img src="https://img.shields.io/badge/GitHub-siddhikalolage-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/siddhikalolage"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/siddhika-lolage/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:siddhikalolage@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p>
-  <b>I build data-driven systems that turn raw data into insights, predictive intelligence, and practical decisions.</b>
-</p>
+<b>I build data-driven systems that turn raw data into insights, predictive intelligence, and practical decisions.</b>
+
+<br><br>
+
+<a href="#featured-projects">🚀 Projects</a> •
+<a href="#what-i-build">🧭 What I Build</a> •
+<a href="#technology-stack">🛠️ Tech Stack</a> •
+<a href="#engineering-approach">🔄 Approach</a> •
+<a href="#current-focus">🔭 Current Focus</a> •
+<a href="#lets-connect">🤝 Connect</a>
 
 </div>
 
@@ -27,7 +34,7 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 - 📊 Building analytics and BI solutions with **Python, SQL and Power BI**
 - 📈 Working with **forecasting, KPI analysis and decision intelligence**
 - 🤖 Building ML systems with **Scikit-learn and TensorFlow**
-- 🏗️ Exploring modern data workflows with **Snowflake and dbt**
+- 🏗️ Working with modern analytical workflows using **Snowflake and dbt**
 - 🧠 Interested in production-oriented ML, explainable analysis and real-world applications
 - 🎯 Target roles: **Data Analyst • BI Analyst • Data Scientist • ML Engineer**
 
@@ -46,11 +53,20 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Featured Projects
 
-> A focused selection of projects representing the way I approach analytics and ML problems.
+<div align="center">
 
-### 🥇 [Retail Demand Forecasting & Decision Intelligence](https://github.com/siddhikalolage/retail-demand-forecasting-project)
+| 🥇 Flagship Analytics | 🤖 Flagship ML |
+|---|---|
+| **[Retail Demand Forecasting](https://github.com/siddhikalolage/retail-demand-forecasting-project)**<br>Snowflake • dbt • Forecasting • Power BI | **[Sign Language → Speech](https://github.com/siddhikalolage/sign-language-to-speech-converter)**<br>MediaPipe • Scikit-learn • ExtraTrees • CV |
+| **[Financial Market Analytics](https://github.com/siddhikalolage/Financial-Market-Analytics-And-Decision-Intelligence-Dashboard)**<br>Python • SQL • Power BI • Decision Intelligence | **[Plant Disease Classification](https://github.com/siddhikalolage/plant-disease-classification)**<br>TensorFlow • Keras • CNN • Transfer Learning |
+
+</div>
+
+<a id="featured-projects"></a>
+
+### 🥇 Retail Demand Forecasting & Decision Intelligence
 
 **End-to-end Data Analytics + BI platform**
 
@@ -62,11 +78,11 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 - Forecast intelligence integrated with executive Power BI reporting
 - Designed around practical questions such as **what is selling, where demand is changing, and what action should follow**
 
-**Why it matters:** demonstrates the complete journey from data engineering and transformation to analytics, forecasting and executive decision-making.
+**Portfolio signal:** data engineering + analytics + forecasting + executive BI in one system.
 
 ---
 
-### 🥈 [Financial Market Analytics & Decision Intelligence Dashboard](https://github.com/siddhikalolage/Financial-Market-Analytics-And-Decision-Intelligence-Dashboard)
+### 🥈 Financial Market Analytics & Decision Intelligence Dashboard
 
 **Business-focused Data Analytics + BI project**
 
@@ -78,11 +94,11 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 - Executive-style dashboard storytelling
 - Converts market data into interpretable business decisions rather than isolated charts
 
-**Why it matters:** demonstrates the core skills expected from a Data Analyst / BI Analyst: analysis, KPI design, visualization and business communication.
+**Portfolio signal:** strong fit for Data Analyst / BI Analyst responsibilities.
 
 ---
 
-### 🥉 [Sign Language → Speech Converter](https://github.com/siddhikalolage/sign-language-to-speech-converter)
+### 🥉 Sign Language → Speech Converter
 
 **Real-time applied Machine Learning / Computer Vision system**
 
@@ -96,11 +112,11 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 - Phrase construction and speech output
 - Artifact validation and reproducibility checks
 
-**Why it matters:** demonstrates feature engineering, model pipelines, inference architecture, validation and deployment-oriented thinking.
+**Portfolio signal:** feature engineering + ML pipelines + inference architecture + validation.
 
 ---
 
-### 4️⃣ [Plant Disease Classification](https://github.com/siddhikalolage/plant-disease-classification)
+### 4️⃣ Plant Disease Classification
 
 **Deep Learning / Computer Vision experimentation project**
 
@@ -112,12 +128,10 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 - Augmentation, checkpointing, early stopping and learning-rate scheduling
 - Evaluation-oriented model development
 
-**Why it matters:** demonstrates practical deep-learning workflow and model experimentation beyond a single baseline.
-
----
+**Portfolio signal:** practical deep-learning experimentation and model-development workflow.
 
 <details>
-<summary><b>🔎 More Projects</b></summary>
+<summary><b>🔎 Explore More Projects</b></summary>
 
 | Project | Area | Focus |
 |---|---|---|
@@ -131,7 +145,8 @@ My approach goes beyond training a model or creating a dashboard. I focus on the
 
 ---
 
-## 🔄 My End-to-End Analytics Approach
+<a id="engineering-approach"></a>
+## 🔄 Engineering Approach
 
 ```mermaid
 flowchart LR
@@ -152,12 +167,13 @@ flowchart LR
 
 **Don't stop at the model. Don't stop at the dashboard.**
 
-I aim to connect the technical output to a decision:
+I aim to connect technical output to a decision:
 
 > **Data → Evidence → Insight → Decision → Action**
 
 ---
 
+<a id="technology-stack"></a>
 ## 🛠️ Technology Stack
 
 ### Analytics & Programming
@@ -207,17 +223,17 @@ I try to make projects **reproducible, testable and explainable**, not just visu
 - ✅ Document assumptions and analytical decisions
 - ✅ Use testing and validation to catch silent failures
 - ✅ Build dashboards around questions and decisions, not decoration
-- ✅ Keep the final output understandable to both technical and business audiences
+- ✅ Keep outputs understandable to both technical and business audiences
 
 ---
 
-## 📚 Certifications & Learning
+## 📚 Certifications
 
 - **Microsoft Azure Fundamentals — AZ-900**
-- Continuously building practical experience across **analytics, BI, ML and cloud data workflows**
 
 ---
 
+<a id="current-focus"></a>
 ## 🔭 Current Focus
 
 ```text
@@ -232,7 +248,7 @@ Machine Learning
 Production-oriented Data / ML Systems
 ```
 
-My current priority is **deepening project quality rather than increasing project count** — making existing systems more reliable, explainable, business-oriented and portfolio-ready.
+**Current priority:** deepen project quality rather than simply increasing project count — making existing systems more reliable, explainable, business-oriented and portfolio-ready.
 
 ---
 
@@ -247,6 +263,7 @@ My current priority is **deepening project quality rather than increasing projec
 
 ---
 
+<a id="lets-connect"></a>
 ## 🤝 Let's Connect
 
 I am interested in opportunities and collaborations around **Data Analytics, Business Intelligence, Data Science and Machine Learning**.
@@ -255,7 +272,7 @@ I am interested in opportunities and collaborations around **Data Analytics, Bus
 
 **[GitHub](https://github.com/siddhikalolage) • [LinkedIn](https://www.linkedin.com/in/siddhika-lolage/) • [Email](mailto:siddhikalolage@gmail.com)**
 
-<br>
+<br><br>
 
 *Turning data into insight. Turning insight into decisions.*
 
