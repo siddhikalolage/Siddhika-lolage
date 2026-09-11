@@ -27,16 +27,16 @@
 
 ## 👋 About Me
 
-I am a **3rd-year Information Technology engineering student** focused on building practical projects across **Data Analytics, Business Intelligence, Machine Learning, and Data Science**.
+I am an **Information Technology graduate** focused on building practical, end-to-end solutions across **Data Analytics, Business Intelligence, Machine Learning, and Data Science**.
 
-My approach goes beyond training a model or creating a dashboard. I focus on the complete path from **business problem → data → transformation → analysis → modeling → validation → visualization → decision**.
+I approach projects as real problem-solving systems rather than isolated notebooks or dashboards — connecting **business problems → data → transformation → analysis → modeling → validation → visualization → decision**.
 
 - 📊 Building analytics and BI solutions with **Python, SQL and Power BI**
 - 📈 Working with **forecasting, KPI analysis and decision intelligence**
 - 🤖 Building ML systems with **Scikit-learn and TensorFlow**
 - 🏗️ Working with modern analytical workflows using **Snowflake and dbt**
 - 🧠 Interested in production-oriented ML, explainable analysis and real-world applications
-- 🎯 Target roles: **Data Analyst • BI Analyst • Data Scientist • ML Engineer**
+- 🎯 Open to roles in **Data Analytics • Business Intelligence • Data Science • Machine Learning**
 
 ---
 
@@ -248,7 +248,7 @@ Machine Learning
 Production-oriented Data / ML Systems
 ```
 
-**Current priority:** deepen project quality rather than simply increasing project count — making existing systems more reliable, explainable, business-oriented and portfolio-ready.
+**Career focus:** building reliable, explainable and business-oriented data products while pursuing opportunities in **Data Analytics, Business Intelligence, Data Science and Machine Learning**.
 
 ---
 
